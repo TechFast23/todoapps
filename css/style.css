@@ -232,9 +232,12 @@ input[type="datetime-local"],
   .form {
     width: 100%;
   }
-  
- input[type="text"],
-input[type="datetime-local"]{
-  width: 260px;
-} 
+
+  input[type="text"],
+  input[type="datetime-local"] {
+    width: 260px;
+  }
+  .modal-content {
+    width: 100%;
+  }
 }
