@@ -233,5 +233,8 @@ input[type="datetime-local"],
     width: 100%;
   }
   
-
+ input[type="text"],
+input[type="datetime-local"]{
+  width: 260px;
+} 
 }
